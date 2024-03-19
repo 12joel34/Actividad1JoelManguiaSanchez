@@ -1,6 +1,6 @@
-CREATE DATABASE Compu
+CREATE DATABASE CompuDB
 
-CREATE TABLE Computadoras (
+CREATE TABLE Computadora (
     ID INT Identity (1,1) NOT NULL,
     Nombre VARCHAR(100) NOT NULL,
     Descripcion TEXT,
